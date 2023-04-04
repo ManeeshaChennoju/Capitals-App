@@ -1,0 +1,43 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.home {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg_container {
+  background-color: rgba(0, 183, 255, 0.603);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 1px 1px 1px #bfbfbf;
+  height: 100vh;
+  width: 50vw;
+}
+.ConsAndCapsCont {
+  background-color: whitesmoke;
+  box-shadow: 1px 1px 1px #bfbfbf;
+  padding: 15px;
+  border-radius: 10px;
+  height: 40vh;
+}
+
+.heading {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Times New Roman',  Times,  serif;
+}
+
+.selectOptions {
+  padding: 5px;
+  font-weight: bold;
+}
+
+.country {
+  font-size: 30px;
+  margin-top: 30px;
+  font-weight: bold;
+}
